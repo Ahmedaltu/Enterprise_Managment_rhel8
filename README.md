@@ -2,7 +2,7 @@ This project is a full documentaion of Enterrise management by Red Hat Enterpris
 
 The documentation include:
 
-1- Installing Red Hat Enterprise Linux 8 on a virtual machine. 
+1- Installing Red Hat Enterprise Linux 8 on a virtual machine.   
 2- Virtual machine configuration.
 3- 
 
